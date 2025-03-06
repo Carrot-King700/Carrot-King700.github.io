@@ -5,15 +5,13 @@ body {
   text-align: center;
 }
 
-h2 {
+
+
+h1 {
   font-family: 'Arial';
   font-size: xx-large;
   text-align: center;
   color: #c50;
-}
-
-h1 {
-  font-size: 2em;
 }
 #proxy_url {
 font-family: "Trebuchet MS", sans-serif;
